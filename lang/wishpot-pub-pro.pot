@@ -1,0 +1,230 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wishpot-publisher-pro\n"
+"POT-Creation-Date: 2011-03-12 16:50:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wishpot-pub-pro-functions.php:180
+msgid "Brand:"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:183 wishpot-pub-pro-functions.php:215
+msgid "Price:"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:284
+msgid "Category added !!!"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:289
+msgid "Category Name missing !!!"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:867
+msgid "Search ...."
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:875
+msgid "Prices"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:880 wishpot-pub-pro-functions.php:906
+msgid "All"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:901
+msgid "Brands"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:960 wishpot-pub-pro-widgets.php:454
+#: wishpot-pub-pro-widgets.php:488 wishpot-pub-pro-widgets.php:522
+#: wishpot-pub-pro-widgets.php:556 wishpot-pub-pro-widgets.php:590
+#: wishpot-pub-pro-widgets.php:624 wishpot-pub-pro-widgets.php:658
+#: wishpot-pub-pro-widgets.php:692 wishpot-pub-pro-widgets.php:726
+#: wishpot-pub-pro-widgets.php:760 wishpot-pub-pro-widgets.php:794
+msgid "See more product details"
+msgstr ""
+
+#: wishpot-pub-pro-functions.php:960 wishpot-pub-pro-widgets.php:454
+#: wishpot-pub-pro-widgets.php:488 wishpot-pub-pro-widgets.php:522
+#: wishpot-pub-pro-widgets.php:556 wishpot-pub-pro-widgets.php:590
+#: wishpot-pub-pro-widgets.php:624 wishpot-pub-pro-widgets.php:658
+#: wishpot-pub-pro-widgets.php:692 wishpot-pub-pro-widgets.php:726
+#: wishpot-pub-pro-widgets.php:760 wishpot-pub-pro-widgets.php:794
+msgid "More ..."
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:47
+msgid ""
+"This free plugin allows you to display various ads on your blog. You can "
+"display them in any widget area or on wordpress pages."
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:48
+msgid "The ads can be customized in size and count of visible products."
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:62 wishpot-pub-pro-option-page.php:116
+#: wishpot-pub-pro-option-page.php:240
+msgid "Zum umschalten klicken"
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:63
+msgid "Global Settings"
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:70
+msgid "Add New Categories"
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:117
+msgid "Product Pages"
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:120
+msgid "Settings for the Product Pages."
+msgstr ""
+
+#: wishpot-pub-pro-option-page.php:123
+msgid "How many products should be displayed on one page"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:33
+msgid "300x250 - One Product"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:34
+msgid "300x250 - Two Products"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:35
+msgid "160x600 - One Product"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:36
+msgid "160x600 - Two Product"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:37
+msgid "160x600 - Three Product"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:38
+msgid "160x600 - Four Products"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:39
+msgid "120x600 - One Product"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:40
+msgid "120x600 - Two Product"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:41
+msgid "120x600 - Three Product"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:42
+msgid "120x600 - Four Products"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:43
+msgid "300x600 - Eight Products"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:47
+msgid "color picker"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:48
+msgid "theme one"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:52
+msgid "Popular Products"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:53
+msgid "Promotions"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:75
+msgid "Auto-Detect"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:76
+msgid "US"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:77
+msgid "FR"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:78
+msgid "GER"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:79
+msgid "IT"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:84
+msgid "Displays various types of Ads."
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:90
+msgid "Wishpot Publisher Pro - Display Ads"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:182
+msgid "Ad template"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:200
+msgid "Title"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:202
+msgid "Custom Title - shown in sidebar."
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:205
+msgid "Hide Title"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:207
+msgid "Hide the title in the Ad box."
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:236
+msgid "Enable FB Like"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:273
+msgid "Category"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:299
+msgid "Keywords"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:303
+msgid "Enable posts to overwrite category and keywords"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:307
+msgid "Placement Id"
+msgstr ""
+
+#: wishpot-pub-pro-widgets.php:311
+msgid "Country"
+msgstr ""
